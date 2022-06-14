@@ -1,16 +1,12 @@
-### Hi there 👋
+### 💪GIGA CHAD SUPREMACY💪
 
-<!--
-**BORISVY/BORISVY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=BORISVY)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://www.youtube.com/channel/UCu2jTxY13gQOH9WsRUv1wjA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   	<a href="https://www.twitch.tv/b0risvy" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+   <a href = "mailto:joaopedrobergamini16062000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
