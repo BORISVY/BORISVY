@@ -1,6 +1,5 @@
 ### 💪GIGA CHAD SUPREMACY💪
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=BORISVY)
 
 <div> 
   <a href="https://www.youtube.com/channel/UCu2jTxY13gQOH9WsRUv1wjA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
